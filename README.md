@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DIMEup</title>
+</head>
+<body>
+    <h1><strong> LEVEL UP A DIM/NE</strong> </h1>
+    <h2><i># experience a new dimension from you boring life</h2>
+    <hr>
+    <p><b> this is a project <br>which will probabli change the world for high <mark>restaurants</mark></b></p>
+    <p><small>my first try to create this</small></p>
+
+
+    
+</body>
+</html>
